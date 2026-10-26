@@ -17,3 +17,8 @@ Desktop.ini
 node_modules/
 dist/
 build/
+
+# Capacitor & Android build outputs
+android/
+www/
+.capacitor/
